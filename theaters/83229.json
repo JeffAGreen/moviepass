@@ -1,1 +1,1 @@
-[{"id":"2542","name":"River Cinemas","address":"526 Main Street","city":"Salmon","state":"ID","zip":"83467","distance":"17.41579246520996","lon":"-113.894203","lat":"45.175724","theaterChainName":"Polson Theatres","ticketType":"STANDARD"}]
+[{"id":"2542","tribuneTheaterId":"1194","providerTheaterId":"","name":"River Cinemas","address":"526 Main Street","city":"Salmon","state":"ID","zip":"83467","distance":17.414959387672,"lon":"-113.8942","lat":"45.175724","theaterChainName":"Polson Theatres","ticketType":"STANDARD"}]

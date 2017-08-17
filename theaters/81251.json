@@ -1,1 +1,1 @@
-[{"id":"2955","name":"Isis Theater","address":"406 E. Hopkins Ave.","city":"Aspen","state":"CO","zip":"81611","distance":"21.141254425048828","lon":"-106.819153","lat":"39.189838","theaterChainName":"Metropolitan Theatres","ticketType":"STANDARD"}]
+[{"id":"2955","tribuneTheaterId":"500","providerTheaterId":"","name":"Isis Theater","address":"406 E. Hopkins Ave.","city":"Aspen","state":"CO","zip":"81611","distance":21.140002517289,"lon":"-106.819156","lat":"39.18984","theaterChainName":"Metropolitan Theatres","ticketType":"STANDARD"}]

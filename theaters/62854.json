@@ -1,1 +1,1 @@
-[{"id":"1509","name":"AMC Plaza 5","address":"1047 W. Broadway","city":"Centralia","state":"IL","zip":"62801","distance":"24.070764541625977","lon":"-89.152199","lat":"38.529701","theaterChainName":"AMC Theatres","ticketType":"STANDARD"}]
+[{"id":"1509","tribuneTheaterId":"4932","providerTheaterId":"6132","name":"AMC Plaza 5","address":"1047 W. Broadway","city":"Centralia","state":"IL","zip":"62801","distance":24.069377099336,"lon":"-89.152199","lat":"38.529701","theaterChainName":"AMC Theatres","ticketType":"STANDARD"}]

@@ -1,1 +1,1 @@
-[{"id":"5530","name":"Marquette Cinema","address":"1525 Commerce Drive","city":"Marquette","state":"MI","zip":"49855","distance":"24.82727813720703","lon":"-87.456703","lat":"46.557999","theaterChainName":"Thomas Theatre Group","ticketType":"STANDARD"}]
+[{"id":"5530","tribuneTheaterId":"10961","providerTheaterId":"","name":"Marquette Cinema","address":"1525 Commerce Drive","city":"Marquette","state":"MI","zip":"49855","distance":24.825827905977,"lon":"-87.4567","lat":"46.558","theaterChainName":"Thomas Theatre Group","ticketType":"STANDARD"}]

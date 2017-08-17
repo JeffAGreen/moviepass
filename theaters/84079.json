@@ -1,1 +1,1 @@
-[{"id":"3003","name":"Vernal Theatre","address":"40 E. Main St.","city":"Vernal","state":"UT","zip":"84078","distance":"0.05211464688181877","lon":"-109.527756","lat":"40.455727","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]
+[{"id":"3003","tribuneTheaterId":"2599","providerTheaterId":"","name":"Vernal Theatre","address":"40 E. Main St.","city":"Vernal","state":"UT","zip":"84078","distance":0.051856944162194,"lon":"-109.527759","lat":"40.455725","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]

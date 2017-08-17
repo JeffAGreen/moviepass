@@ -1,1 +1,1 @@
-[{"id":"1745","name":"Carmike 6 Duncan","address":"1501 Plato Rd","city":"Duncan","state":"OK","zip":"73533","distance":"24.45143699645996","lon":"-97.965897","lat":"34.534828","theaterChainName":"Carmike Cinemas","ticketType":"STANDARD"}]
+[{"id":"1745","tribuneTheaterId":"4777","providerTheaterId":"","name":"Carmike 6 Duncan","address":"1501 Plato Rd","city":"Duncan","state":"OK","zip":"73533","distance":24.450100467721,"lon":"-97.965893","lat":"34.534828","theaterChainName":"Carmike Cinemas","ticketType":"STANDARD"}]

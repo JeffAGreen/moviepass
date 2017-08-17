@@ -1,1 +1,1 @@
-[{"id":"4065","name":"Hangar Cinema","address":"1602 S. Main","city":"Maryville","state":"MO","zip":"64468","distance":"11.092942237854004","lon":"-94.875504","lat":"40.330166","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]
+[{"id":"4065","tribuneTheaterId":"2008","providerTheaterId":"","name":"Hangar Cinema","address":"1602 S. Main","city":"Maryville","state":"MO","zip":"64468","distance":11.092133752537,"lon":"-94.875505","lat":"40.330165","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]

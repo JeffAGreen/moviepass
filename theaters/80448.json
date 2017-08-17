@@ -1,1 +1,1 @@
-[{"id":"2646","name":"Skyline Cinema 8","address":"312 Dillon Ridge Rd.","city":"Dillon","state":"CO","zip":"80435","distance":"24.19146728515625","lon":"-106.056000","lat":"39.630100","theaterChainName":"Mitchell Theatres","ticketType":"STANDARD"}]
+[{"id":"2646","tribuneTheaterId":"1940","providerTheaterId":"","name":"Skyline Cinema 8","address":"312 Dillon Ridge Rd.","city":"Dillon","state":"CO","zip":"80435","distance":24.190102457118,"lon":"-106.056","lat":"39.6301","theaterChainName":"Mitchell Theatres","ticketType":"STANDARD"}]

@@ -1,1 +1,1 @@
-[{"id":"2225","name":"Goodrich Cadillac 5","address":"202 S. Mitchell St.","city":"Cadillac","state":"MI","zip":"49601","distance":"18.88352394104004","lon":"-85.398499","lat":"44.249298","theaterChainName":"Goodrich Theatres","ticketType":"E_TICKET"}]
+[{"id":"2225","tribuneTheaterId":"4873","providerTheaterId":"","name":"Goodrich Cadillac 5","address":"202 S. Mitchell St.","city":"Cadillac","state":"MI","zip":"49601","distance":18.882339219713,"lon":"-85.3985","lat":"44.2493","theaterChainName":"Goodrich Theatres","ticketType":"E_TICKET"}]

@@ -1,1 +1,1 @@
-[{"id":"3737","name":"Spring Lane Cinema","address":"1351 Douglas Drive","city":"Sanford","state":"NC","zip":"27330","distance":"6.850228309631348","lon":"-79.197701","lat":"35.488602","theaterChainName":"Frank Theatres","ticketType":"STANDARD"}]
+[{"id":"3737","tribuneTheaterId":"2303","providerTheaterId":"","name":"Spring Lane Cinema","address":"1351 Douglas Drive","city":"Sanford","state":"NC","zip":"27330","distance":6.8499970797604,"lon":"-79.1977","lat":"35.4886","theaterChainName":"Frank Theatres","ticketType":"STANDARD"}]

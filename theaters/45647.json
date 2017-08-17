@@ -1,1 +1,1 @@
-[{"id":"4090","name":"Tri-City Theatre","address":"972 East Main Street","city":"Jackson","state":"OH","zip":"45640","distance":"18.430164337158203","lon":"-82.626503","lat":"39.034901","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]
+[{"id":"4090","tribuneTheaterId":"1801","providerTheaterId":"","name":"Tri-City Theatre","address":"972 East Main Street","city":"Jackson","state":"OH","zip":"45640","distance":18.429035948815,"lon":"-82.6265","lat":"39.0349","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]

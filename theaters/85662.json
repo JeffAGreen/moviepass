@@ -1,1 +1,1 @@
-[{"id":"4192","name":"Oasis Cinema","address":"240 W. Roper Road","city":"Nogales","state":"AZ","zip":"85621","distance":"12.201557159423828","lon":"-110.930000","lat":"31.356300","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]
+[{"id":"4192","tribuneTheaterId":"2214","providerTheaterId":"","name":"Oasis Cinema","address":"240 W. Roper Road","city":"Nogales","state":"AZ","zip":"85621","distance":12.200862274954,"lon":"-110.93","lat":"31.3563","theaterChainName":"Independent Chains","ticketType":"STANDARD"}]
